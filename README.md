@@ -1,9 +1,9 @@
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-Poke%20Actions-blue?logo=github)](https://github.com/marketplace/actions/poke-actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# <img src="./assets/pokemon/058.png" alt="Growlithe" width="52" align="left"> Poke Actions
+# <img src="./assets/pokemon/059.png" alt="Arcanine" width="40" align="left"> Poke Actions
 
-GitHub & Pokémon! Every time someone closes an issue, they catch a random Pokémon from Generation 1.
+GitHub & Pokémon! Every time someone closes an issue, they catch a random Pokémon.
 
 
 ## ✨ Features
@@ -59,8 +59,8 @@ That's it! 🎊
 
 **Pull request merged:**
 > 🎉 **Congratulations @charlie!**  
-> You caught **Pikachu**!  
-> <img src="./assets/pokemon/025.png" alt="Pikachu" width="68">  
+> You caught **Growlithe**!  
+> <img src="./assets/pokemon/058.png" alt="Growlithe" width="68">  
 > _Merged by @diana_
 
 **Pull request closed (not merged):**
@@ -80,6 +80,7 @@ Contributions welcome! Please:
 ## 🚧 Work in Progress
 
 - [x] **PR Support** - Add Pokémon rewards for merged pull requests
+- [ ] **Add more pokemon** - Add other generations to the pool
 - [ ] **Custom Messages** - Allow repository owners to customize catch messages
 - [ ] **Rare Pokémon** - Special rewards for significant contributions (first-time contributors, large PRs, etc.)
 - [ ] **Shiny Variants** - Rare shiny Pokémon for special occasions

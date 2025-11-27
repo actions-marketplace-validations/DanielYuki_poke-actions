@@ -1,5 +1,5 @@
 name: "Poke Actions"
-description: "Fun github actions for poke devs"
+description: "Every time someone closes an issue or pull request, they catch a random Pokémon"
 author: "Daniel Yuki"
 branding:
   icon: 'git-commit'

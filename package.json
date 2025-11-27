@@ -1,14 +1,14 @@
 {
   "name": "poke-actions",
   "version": "1.0.0",
-  "description": "Fun github actions for poke devs",
+  "description": "Every time someone closes an issue or pull request, they catch a random Pokémon",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc && ncc build lib/index.js -o dist --source-map --license licenses.txt",
     "dev": "tsc --watch",
     "package": "pnpm run build"
   },
-  "keywords": ["github-actions", "pokemon", "issues", "fun"],
+  "keywords": ["github-actions", "pokemon", "issues", "pull-requests", "fun"],
   "author": "Daniel Yuki",
   "license": "MIT",
   "dependencies": {
